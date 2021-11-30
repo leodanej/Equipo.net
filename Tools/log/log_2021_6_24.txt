@@ -1,0 +1,45 @@
+24/06/2021 11:04:22 a. m. - System.Data.SqlTypes.SqlNullValueException: Data is Null. This method or property cannot be called on Null values.
+   at Microsoft.Data.SqlClient.SqlBuffer.ThrowIfNull()
+   at Microsoft.Data.SqlClient.SqlBuffer.get_DateTime()
+   at Microsoft.Data.SqlClient.SqlDataReader.GetDateTime(Int32 i)
+   at lambda_method24(Closure , QueryContext , DbDataReader , ResultContext , SingleQueryResultCoordinator )
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at bakend.Controllers.FiltroNomMovController.GetResult(String busqueda) in C:\Users\xtr\Desktop\Proyecto\Proyecto-de-rastreo\bakend\Controllers\FiltroNomMovController.cs:line 35
+24/06/2021 11:04:33 a. m. - System.Data.SqlTypes.SqlNullValueException: Data is Null. This method or property cannot be called on Null values.
+   at Microsoft.Data.SqlClient.SqlBuffer.ThrowIfNull()
+   at Microsoft.Data.SqlClient.SqlBuffer.get_DateTime()
+   at Microsoft.Data.SqlClient.SqlDataReader.GetDateTime(Int32 i)
+   at lambda_method24(Closure , QueryContext , DbDataReader , ResultContext , SingleQueryResultCoordinator )
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at bakend.Controllers.FiltroNomMovController.GetResult(String busqueda) in C:\Users\xtr\Desktop\Proyecto\Proyecto-de-rastreo\bakend\Controllers\FiltroNomMovController.cs:line 35
+24/06/2021 11:08:20 a. m. - System.Data.SqlTypes.SqlNullValueException: Data is Null. This method or property cannot be called on Null values.
+   at Microsoft.Data.SqlClient.SqlBuffer.ThrowIfNull()
+   at Microsoft.Data.SqlClient.SqlBuffer.get_DateTime()
+   at Microsoft.Data.SqlClient.SqlDataReader.GetDateTime(Int32 i)
+   at lambda_method24(Closure , QueryContext , DbDataReader , ResultContext , SingleQueryResultCoordinator )
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at bakend.Controllers.FiltroNomMovController.GetResult(String busqueda) in C:\Users\xtr\Desktop\Proyecto\Proyecto-de-rastreo\bakend\Controllers\FiltroNomMovController.cs:line 35
+24/06/2021 11:11:40 a. m. - System.Data.SqlTypes.SqlNullValueException: Data is Null. This method or property cannot be called on Null values.
+   at Microsoft.Data.SqlClient.SqlBuffer.ThrowIfNull()
+   at Microsoft.Data.SqlClient.SqlBuffer.get_DateTime()
+   at Microsoft.Data.SqlClient.SqlDataReader.GetDateTime(Int32 i)
+   at lambda_method24(Closure , QueryContext , DbDataReader , ResultContext , SingleQueryResultCoordinator )
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at bakend.Controllers.FiltroNomMovController.GetResult(String busqueda) in C:\Users\xtr\Desktop\Proyecto\Proyecto-de-rastreo\bakend\Controllers\FiltroNomMovController.cs:line 35
+24/06/2021 11:13:32 a. m. - System.Data.SqlTypes.SqlNullValueException: Data is Null. This method or property cannot be called on Null values.
+   at Microsoft.Data.SqlClient.SqlBuffer.ThrowIfNull()
+   at Microsoft.Data.SqlClient.SqlBuffer.get_DateTime()
+   at Microsoft.Data.SqlClient.SqlDataReader.GetDateTime(Int32 i)
+   at lambda_method24(Closure , QueryContext , DbDataReader , ResultContext , SingleQueryResultCoordinator )
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at bakend.Controllers.FiltroNomMovController.GetResult(String busqueda) in C:\Users\xtr\Desktop\Proyecto\Proyecto-de-rastreo\bakend\Controllers\FiltroNomMovController.cs:line 36

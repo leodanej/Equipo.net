@@ -1,0 +1,9 @@
+13/06/2021 10:15:23 p. m. - Exception of type 'System.Exception' was thrown.
+13/06/2021 10:15:46 p. m. - Exception of type 'System.Exception' was thrown.
+13/06/2021 10:21:09 p. m. - Exception of type 'System.Exception' was thrown.
+13/06/2021 10:44:44 p. m. - bakend
+13/06/2021 10:49:09 p. m. - -2146233088
+13/06/2021 10:51:12 p. m. - System.Exception: Exception of type 'System.Exception' was thrown.
+   at bakend.Controllers.UsuarioController.Getusuarios() in C:\Users\xtr\Desktop\Proyecto\Proyecto-de-rastreo\bakend\Controllers\UsuarioController.cs:line 45
+13/06/2021 10:54:26 p. m. - System.Exception: Exception of type 'System.Exception' was thrown.
+   at bakend.Controllers.UsuarioController.Getusuarios() in C:\Users\xtr\Desktop\Proyecto\Proyecto-de-rastreo\bakend\Controllers\UsuarioController.cs:line 45
